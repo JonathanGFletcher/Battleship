@@ -2,7 +2,7 @@
 ## A simple CLI battleship game.
 This was an assignment for an Object Oriented Programming class.\
 The objective was to create a battleship game that would run in the terminal.\
-The project was written entirely in C++.\ 
+The project was written entirely in C++.
 ## Game Legend:
 Aircraft Carrier: AAAAA\
 Battleship: BBBB\
@@ -12,7 +12,7 @@ Destroyer: DD\
 \
 Water: ~\
 Successful Strike: H\
-Missed Strike: M\ 
+Missed Strike: M
 ## Game Instructions:
 Before playing the game, you must create a profile and place your ships.\
 \
