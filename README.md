@@ -8,7 +8,6 @@ The project was written entirely in C++.\
 \
 \
 ## Game Legend:
-\
 Aircraft Carrier: AAAAA\
 Battleship: BBBB\
 Cruiser: CCC\
@@ -22,7 +21,6 @@ Missed Strike: M\
 \
 \
 ## Game Instructions:
-\
 Before playing the game, you must create a profile and place your ships.\
 \
 Select option 2 in the main menu.\
